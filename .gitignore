@@ -39,6 +39,9 @@ $RECYCLE.BIN/
 .Trashes
 .VolumeIcon.icns
 
+# Dependency directories
+project/design file
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop

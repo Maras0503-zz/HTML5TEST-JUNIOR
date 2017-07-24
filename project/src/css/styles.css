@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+#stage{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    min-height: 250px;
+    min-width: 300px;
+    margin-top: -150px;
+    margin-left: -150px;
+    margin-bottom: 200px;
+}
+
